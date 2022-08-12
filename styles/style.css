@@ -1,0 +1,44 @@
+* {
+    text-align: center;
+}
+.recipe-link {
+    color: blueviolet;
+}
+
+.link {
+    background-color: red;
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.link:visited {
+    background-color: yellow;
+}
+.link:hover {
+    background-color: green;
+}
+.link:active {
+    background-color: blue;
+}
+img {
+    border-radius: 15px;
+}
+h1 {
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 72px;
+    text-align: center;
+}
+
+menu,
+ol,
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
